@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dulc3/dulc3/main/typing-banner.gif" alt="typing animation" />
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dulc3/dulc3/main/banner.gif" alt="cyberpunk banner" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola,+Im+Dulc3;Second+line+of+text)](https://git.io/typing-svg)
 
 # Hola, I'm Dulc3 🍬
 
