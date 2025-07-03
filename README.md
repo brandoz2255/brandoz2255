@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola,+Im+Dulc3+🍬;DevSecOps+'+'+AI+=🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola,+Im+Dulc3+🍬;DevSecOps+plus+AI+=🔥)](https://git.io/typing-svg)
 
-# Hola, I'm Dulc3 🍬
+---
 
 💻 CS & Cybersecurity student • DevSecOps practitioner • AI + Security explorer
 🔐 I break things (ethically), automate ops, and build secure systems from scratch
