@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70AB7&center=true&vCenter=true&width=435&lines=Hola%2C+I'm+Dulc3+🍬;Cybersecurity+Engineer+in+Progress...;DevSecOps+%2B+AI+%3D+💥;Let's+hack+the+future+together!" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/dulc3/dulc3/main/typing-banner.gif" alt="typing animation" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dulc3/dulc3/main/banner.gif" alt="cyberpunk banner" />
