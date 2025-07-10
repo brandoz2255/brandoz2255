@@ -31,15 +31,6 @@
 * `🧠 k8s-homeserver` – A near Production ready k8s micro-services server for my  home infrastructure
 * `⚙️ DevOps Lab` – full  environment For learning Docker and Teaching Docker
 
----
-
-### 🌱 Goals for 2025
-
-* Contribute to open source in DevSecOps or AI security
-* Get Security+ and AZ-400 certified
-* Build a  security research lab with K8s + AI swarm bots
-
----
 
 ### 📈 GitHub Stats
 
