@@ -13,7 +13,7 @@
 * **Languages:** C/C++, Python, TypeScript, Bash, 
 * **Tools:** Docker, Kubernetes, GitHub Actions, Ansible, Terraform, Nmap, ZAP, Wireshark
 * **Cloud:** AWS (Educate), Azure (beginner)
-* **ML/AI:** Hugging Face, Ollama, PyTorch, RAG, LLMs
+* **ML/AI:** Hugging Face, Ollama, PyTorch, RAG, LLMs, MCP
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
