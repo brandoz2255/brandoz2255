@@ -38,14 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brandoz2255&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandoz2255&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 😎 Fun Facts
-
-* I rice my Arch Linux setup like a true hacker 💅
-* I vibe code with Neovim, Fish shell, and caffeine
-
-> “Hack the planet. Secure the system. Document everything.”
+”
 
 ---
