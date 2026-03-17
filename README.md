@@ -4,7 +4,7 @@
 
 💻 CS & Cybersecurity student • DevSecOps practitioner • AI + Security explorer
 🔐 I break things (ethically), automate ops, and build secure systems from scratch
-🚀 Currently building: Jarvis (Pronounced Harvis) – an AI-driven Cyber Assistant
+🚀 Currently building: Harvis ) – an AI-driven Cyber Assistant
 
 ---
 
@@ -27,9 +27,8 @@
 
 ### 🔭 What I'm Working On
 
-* `🤖 Jarvis for Cybersecurity` – voice-controlled LLM with Docker + screen vision
+* `🤖 Harvis for Cybersecurity & Ops` – voice-controlled LLM with Docker + screen vision + OpenClaw
 * `🧠 k8s-homeserver` – A near Production ready k8s micro-services server for my  home infrastructure
-* `⚙️ DevOps Lab` – full  environment For learning Docker and Teaching Docker
 
 
 ### 📈 GitHub Stats
@@ -38,6 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brandoz2255&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandoz2255&layout=compact&theme=tokyonight" />
 </p>
-”
+
 
 ---
+:)
